@@ -8,7 +8,7 @@ CREATE TABLE person (
 	country_of_birth VARCHAR(150) NOT NULL
 );
 insert into person (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (1, 'Axe', 'Pletts', 'apletts0@census.gov', 'Male', '2023/07/19', 'Sweden');
-insert into person (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (2, 'Paxon', 'Rowsell', null, 'Male', '2023/10/11', 'Thailand');
+insert into person (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (2, 'Paxon', 'Rowsell', 'apletts0@census.gov', 'Male', '2023/10/11', 'Thailand');
 insert into person (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (3, 'Fanny', 'Riccione', null, 'Female', '2024/03/10', 'China');
 insert into person (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (4, 'Sherlocke', 'Bignal', 'sbignal3@instagram.com', 'Male', '2024/03/20', 'Brazil');
 insert into person (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (5, 'Pete', 'Blague', null, 'Male', '2024/03/28', 'Argentina');
